@@ -17,3 +17,10 @@
 .img1{
   width:200px;
 }
+
+.btn{
+  padding: 15px 35px;
+  color: aliceblue;
+  background-color: black;
+  font-size: 25px;
+}
